@@ -1,4 +1,4 @@
-# BD
+# BD CLONING TOOL IS ONLY FOR BANGLADESHI USERS
 pkg update
 
 pkg upgrade
