@@ -23,7 +23,7 @@ cd BD
 
 ls
 
-python BD.py
+python2 BD.py
 
 
 <a href="https://github.com/Alienrazor/BD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alienrazor/BD?label=Watchers&color=blue&style=flat-square"></a>
